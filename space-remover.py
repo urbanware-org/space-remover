@@ -35,7 +35,7 @@ if os.path.isfile(file_in):
             line = line.replace("t\n", "\n")
         while "\t\r\n" in line:
             line = line.replace("\t\r\n", "\r\n")
-            
+
         # Remove spaces at the end of lines
         while " \n" in line:
             line = line.replace(" \n", "\n")
