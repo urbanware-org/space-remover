@@ -42,6 +42,6 @@ $ rm -f /tmp/foobar.tmp
 
 Any suggestions, questions, bugs to report or feedback to give?
 
-You can contact me by sending an email to <dev@urbanware.org>.
+You can contact me by sending an email to [dev@urbanware.org](mailto:dev@urbanware.org).
 
 [Top](#space-remover)
