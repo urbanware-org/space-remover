@@ -20,6 +20,9 @@ There often are code or config files that contain trailing spaces and tabs at th
 
 The code was written on *Linux* and has only been tested on that platform, yet.
 
+> [!NOTE]
+> This project was **officially discontinued** as of October 2025 and is **no longer maintained**.
+
 [Top](#space-remover)
 
 ## Usage
